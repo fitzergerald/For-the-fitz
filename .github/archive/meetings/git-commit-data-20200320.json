@@ -1,0 +1,22 @@
+{
+  "body": "If you’d just like to make a chatbot similar to tay/zo, I highly recommend [this tutorial](http://lauragelston.ghost.io/speakeasy-pt1/), it’ll give you a good baseline understanding and then you can tinker from there.\n\nAs someone that spent much of 2016-2017 working almost exclusively on chatbots for fun (my undergrad classes were easy that year and my NLP professor was awesome), I had lots of ambitions, but at the end here are the takeaways I got:\n\n1. Don’t expect to get a cohesive conversation, even over a short time frame of 2-3 sentences. You can often get fun responses to each sentence though.\n\n2. If you are okay with making the bot less freeform, you can make more constrained but fun conversation. But there is a tradeoff here, you can’t easily get both. Look up the amazon echo Alexa chatbot competition/on google scholar and they articulate this point in more detail.\n\nHave fun :)",
+  "score_hidden": null,
+  "archived": null,
+  "name": null,
+  "author": "Phylliida",
+  "author_flair_text": null,
+  "downs": null,
+  "created_utc": "1520581389",
+  "subreddit_id": "t5_2r3gv",
+  "link_id": "t3_82ymmx",
+  "parent_id": "t3_82ymmx",
+  "score": "2",
+  "retrieved_on": "1524976202",
+  "controversiality": "0",
+  "gilded": "0",
+  "id": "dvf6th1",
+  "subreddit": "MachineLearning",
+  "ups": null,
+  "distinguished": null,
+  "author_flair_css_class": null
+}
